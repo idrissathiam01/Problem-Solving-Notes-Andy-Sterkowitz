@@ -57,7 +57,9 @@
 		1.  Demonstrate effort.  People are willing to help people who are trying.
 		2.  Your helper does not have to dig.
 		3.  Show respect (think about the other person.  Say 'Thank you.')
-		- PRACTICE, PRACTICE, PRACTICE
+
+
+# PRACTICE, PRACTICE, PRACTICE
 
 	
 
