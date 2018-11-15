@@ -59,7 +59,7 @@
 		3.  Show respect (think about the other person.  Say 'Thank you.')
 
 
-<p style="text-align:center;"># PRACTICE, PRACTICE, PRACTICE</p>
+# PRACTICE, PRACTICE, PRACTICE
 
 	
 
