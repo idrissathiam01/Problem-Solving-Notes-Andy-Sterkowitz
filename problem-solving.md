@@ -39,21 +39,21 @@
 	
 
 #### Small-chunking.  Do a little bit of work at a time.
-	** Take a complex problem and break it down until you cannot break it down any further. **
+	Take a complex problem and break it down until you cannot break it down any further.
 		- Once you have problem one task down, focus on that one task like a bulldog.
 
 
 #### Learn how to ask for help.
-	** When asking a question, think about the needs of the person answering the question. **
+	When asking a question, think about the needs of the person answering the question.
 		- Don't be selfish
 		- Don't forget code
 		- Do not have poorly defined problem
-	** Make it easy to solve your problem **
+	Make it easy to solve your problem
 		- Provide context (what system and technology stack as your using)
 		- Completely define desired outcome / Completely define actual outcome
 		- Give relevant information (ie console errors, stack traces)
 		- Be concise.  Respect people's time.
-	** Key things to remember: **
+	Key things to remember:
 		1.  Demonstrate effort.  People are willing to help people who are trying.
 		2.  Your helper does not have to dig.
 		3.  Show respect (think about the other person.  Say 'Thank you.')
