@@ -16,7 +16,7 @@
 #### The problem may not always be solved in the desired time frame.
 	- The reality is different from the expectation.
 	- Missed deadlines are "red flags"
-	- Time deadlines are targets to aim at.
+	- Timed deadlines are targets to aim at.
 
 
 #### Spend alot of time in the Abyss.  
@@ -58,6 +58,7 @@
 		2.  Your helper does not have to dig.
 		3.  Show respect (think about the other person.  Say 'Thank you.')
 
+It is possible to become a successfull programmer but it takes the requiste motivation to do so
 
 # PRACTICE, PRACTICE, PRACTICE
 
