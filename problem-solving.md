@@ -58,7 +58,8 @@
 		2.  Your helper does not have to dig.
 		3.  Show respect (think about the other person.  Say 'Thank you.')
 
-It is possible to become a successfull programmer but it takes the requiste motivation to do so
+It is possible to become a successfull programmer but it takes the requiste motivation to do so.
+Be Obsessed or Be Average.
 
 # PRACTICE, PRACTICE, PRACTICE
 
