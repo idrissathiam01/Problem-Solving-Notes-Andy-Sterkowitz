@@ -60,7 +60,7 @@
 
 It is possible to become a successfull programmer but it takes the requiste motivation to do so.
 
-Be Obsessed or Be Average.
+Be Obsessed or Be Average. Do not run from problems.  Strive to have bigger problems.
 
 # PRACTICE, PRACTICE, PRACTICE
 
