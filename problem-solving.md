@@ -61,6 +61,15 @@
 It is possible to become a successfull programmer but it takes the requiste motivation to do so.
 
 Be Obsessed or Be Average. Do not run from problems.  Strive to have bigger problems.
+Keep growing.  Keep being obsessed.  Always strive to keep the momentum moving.  
+The target is always changing. 
+QUIT BEING A ‘B’. DON’T BLAME ANYONE. 
+Persist to the end.
+Obsessions MUST be fueled.
+A plane needs fuel:  You are no good without education.
+Look for problems are around you.
+Hebrews 4:12
+Deut. 8:18
 
 # PRACTICE, PRACTICE, PRACTICE.  NEVER QUIT.  ALWAYS HOLD THE LINE.
 
